@@ -42,7 +42,9 @@ section ul {max-width: 290px; text-align: left; margin: 0 auto}
     margin: 10px;
 }
 
-.card_img_con {min-height: 125px; display: flex; align-items: center; flex-wrap: wrap;}
+.card_img_con {min-height: 125px; display: flex; align-items: center; flex-wrap: wrap; }
+
+.portfolio-container2 .card_img_con {display: flex; align-items: center; flex-wrap: wrap; height: 300px; overflow: hidden; margin-bottom: 25px;}
 
 .card img {
     width: 100%;
@@ -135,7 +137,7 @@ section ul {max-width: 290px; text-align: left; margin: 0 auto}
     }
 }
 
-
+.mt-5 {margin-top: 100px;}
 footer {padding: 15px; text-align: center;}
 footer .svgs {margin: 0 auto; }
 footer p {font-size: 12px;}
